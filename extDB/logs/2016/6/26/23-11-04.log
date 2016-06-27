@@ -1,0 +1,20 @@
+extDB2: Version: 63
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 6 Cores, Setting up 6 Worker Threads
+
+
+[19:11:04:209 --4:00] [Thread 3628] extDB2: Database Type: MySQL
+[19:11:04:214 --4:00] [Thread 3628] extDB2: Database Session Pool Started
+[19:11:04:232 --4:00] [Thread 3628] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\extDB\sql_custom_v2\a3wasteland.ini
+[19:11:04:233 --4:00] [Thread 3628] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[19:17:52:811 --4:00] [Thread 3628] extDB2: Stopping ...

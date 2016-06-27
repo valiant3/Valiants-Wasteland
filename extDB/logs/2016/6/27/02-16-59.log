@@ -1,0 +1,22 @@
+extDB2: Version: 63
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 6 Cores, Setting up 6 Worker Threads
+
+
+[22:16:59:167 --4:00] [Thread 6648] extDB2: Database Type: MySQL
+[22:16:59:171 --4:00] [Thread 6648] extDB2: Database Session Pool Started
+[22:16:59:187 --4:00] [Thread 6648] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\extDB\sql_custom_v2\a3wasteland.ini
+[22:16:59:188 --4:00] [Thread 6648] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[22:18:49:355 --4:00] [Thread 232] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String getPlayerDonatorLevel:76561198113994834
+[22:18:49:355 --4:00] [Thread 232] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname getPlayerDonatorLevel
+[22:20:13:581 --4:00] [Thread 6648] extDB2: Stopping ...

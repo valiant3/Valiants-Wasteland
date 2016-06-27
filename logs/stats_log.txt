@@ -1,0 +1,36 @@
+
+
+[2016-06-26 16:51:01] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 16:56:46] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 17:08:12] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 17:26:41] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 18:26:04] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 19:08:37] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 19:17:48] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 21:17:33] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 21:39:56] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 21:49:30] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 22:20:09] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2016-06-26 22:42:21] [AppID 107410] CAPIJobStoreUserStats::BInit() - no stats found, aborting

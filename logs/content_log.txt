@@ -1,0 +1,39 @@
+
+
+[2016-06-26 16:47:57] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 16:49:04] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 16:54:09] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 17:07:39] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 17:24:48] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 18:24:58] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 19:07:42] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 19:09:58] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 20:55:32] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 21:37:11] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 21:46:13] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 22:15:54] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".
+
+
+[2016-06-26 22:31:08] Loaded 1 apps from install folder "C:\Users\Jake\Desktop\Wasteland\ArmA_III_Server\steamapps\appmanifest_*.acf".

@@ -1,0 +1,15 @@
+﻿19:09:58 BattlEye Server: Initialized (v1.213)
+19:09:58 Host identity created.
+19:09:58 Game Port: 2302, Steam Query Port: 2303
+19:10:04 Valiant uses modified data file
+19:10:04 BattlEye Server: Player #0 Valiant (192.168.0.25:2304) connected
+19:10:04 Player Valiant connecting.
+19:10:04 Mission A3Wasteland Altis v1.2b read from directory.
+19:10:17 BattlEye Server: Player #0 Valiant - GUID: 8c07db3631dd6ce5914f71ee7a335dd7 (unverified)
+19:10:18 Player Valiant connected (id=76561198113994834).
+19:10:18 BattlEye Server: Verified GUID (8c07db3631dd6ce5914f71ee7a335dd7) of player #0 Valiant
+19:10:18 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+19:10:30 Roles assigned.
+19:10:30 Reading mission ...
+19:11:01 Mission read.
+19:11:07 Game started.

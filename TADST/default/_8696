@@ -1,0 +1,39 @@
+﻿17:07:39 BattlEye Server: Initialized (v1.213)
+17:07:39 Host identity created.
+17:07:39 Game Port: 2302, Steam Query Port: 2303
+17:07:48 Valiant uses modified data file
+17:07:48 BattlEye Server: Player #0 Valiant (192.168.0.25:2304) connected
+17:07:48 Player Valiant connecting.
+17:07:48 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:07:54 BattlEye Server: Player #0 Valiant - GUID: 8c07db3631dd6ce5914f71ee7a335dd7 (unverified)
+17:07:54 Player Valiant connected (id=76561198113994834).
+17:07:54 BattlEye Server: Verified GUID (8c07db3631dd6ce5914f71ee7a335dd7) of player #0 Valiant
+17:07:54 Roles assigned.
+17:07:54 Reading mission ...
+17:07:55 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:07:55 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:07:57 Roles assigned.
+17:07:57 Reading mission ...
+17:07:58 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:07:58 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:08:00 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+17:08:01 Roles assigned.
+17:08:01 Reading mission ...
+17:08:01 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:08:01 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:08:03 Roles assigned.
+17:08:03 Reading mission ...
+17:08:03 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:08:03 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:08:05 Roles assigned.
+17:08:05 Reading mission ...
+17:08:05 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:08:05 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:08:07 Roles assigned.
+17:08:07 Reading mission ...
+17:08:07 mpmissions\ArmA3_Wasteland.Tanoa-apex\mission.sqm/Mission/Entities/Item259.type: Vehicle class Land_Barracks_01_camo_F no longer exists
+17:08:07 Mission A3Wasteland Tanoa v1.3 read from directory.
+17:08:08 Roles assigned.
+17:08:11 Player Valiant disconnected.
+17:08:12 BattlEye Server: Player #0 Valiant disconnected
+17:08:12 All users disconnected, waiting for users.
